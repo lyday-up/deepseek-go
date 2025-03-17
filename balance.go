@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	utils "github.com/lydayup/deepseek-go/utils"
+	utils "github.com/lyday-up/deepseek-go/utils"
 )
 
 // BalanceInfo represents the balance information for a specific currency.

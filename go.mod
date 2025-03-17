@@ -1,4 +1,4 @@
-module github.com/lydayup/deepseek-go
+module github.com/lyday-up/deepseek-go
 
 go 1.23
 

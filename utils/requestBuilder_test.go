@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"testing"
 
-	utils "github.com/cohesion-org/deepseek-go/utils"
+	utils "github.com/lyday-up/deepseek-go/utils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

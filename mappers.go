@@ -3,7 +3,7 @@ package deepseek
 import (
 	"errors"
 
-	"github.com/lydayup/deepseek-go/constants"
+	"github.com/lyday-up/deepseek-go/constants"
 )
 
 var validRoles = map[string]bool{
