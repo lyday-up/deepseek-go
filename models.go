@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	utils "github.com/cohesion-org/deepseek-go/utils"
+	utils "github.com/lydayup/deepseek-go/utils"
 )
 
 // Official DeepSeek Models

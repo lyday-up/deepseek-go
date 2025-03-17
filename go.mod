@@ -1,8 +1,9 @@
-module github.com/cohesion-org/deepseek-go
+module github.com/lydayup/deepseek-go
 
 go 1.23
 
 require (
+	github.com/cohesion-org/deepseek-go v1.2.7
 	github.com/joho/godotenv v1.5.1
 	github.com/stretchr/testify v1.10.0
 )

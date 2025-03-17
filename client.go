@@ -5,7 +5,7 @@ import (
 	"context"
 	"fmt"
 
-	utils "github.com/cohesion-org/deepseek-go/utils"
+	utils "github.com/lydayup/deepseek-go/utils"
 )
 
 // CreateChatCompletion sends a chat completion request and returns the generated response.
